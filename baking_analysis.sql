@@ -211,7 +211,7 @@ UPDATE recipes_normalized SET
   has_water = ingredients ~* '\m(water)\M';
 
 
---Verifying ingredient flags are populated for baking recipes
+-- Verifying ingredient flags are populated for baking recipes
 
 SELECT recipe_name, has_flour, has_sugar, has_egg, has_butter, has_oil, has_baking_soda, has_baking_powder, has_milk, has_water
 FROM recipes_normalized 
