@@ -1,7 +1,7 @@
 ## Baking Recipe Analysis: What Makes Recipes Successful?
 
 ## Project Overview
-This project analyzes 469 baking recipes to uncover what drives high user ratings. By examining cooking time and ingredient presence against user ratings (2-5 scale), the analysis identifies that longer, ingredient-balanced recipes outperform quick alternatives. The finding implies that baking users reward effort and precision over convenience. This counterintuitive insight is relevant to recipe development and content strategy.
+This project analyzes 469 baking recipes to uncover what drives high user ratings. By examining cooking time and ingredient presence against user ratings (2-5 scale), the analysis identifies that longer, ingredient-balanced recipes outperform quick alternatives. The finding implies that baking users reward effort and precision over convenience. This counterintuitive insight may be relevant to recipe development and content strategy.
 
 ## Dataset Description
 - **Source:** Kaggle - Better Recipes for a Better Life (https://www.kaggle.com/datasets/thedevastator/better-recipes-for-a-better-life/data)
